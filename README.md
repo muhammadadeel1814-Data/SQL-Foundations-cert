@@ -1,2 +1,2 @@
 # SQL-Foundations-cert
-Sql certifications
+here just documentingthe certifications only
